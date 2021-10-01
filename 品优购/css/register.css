@@ -1,0 +1,110 @@
+.w{
+    width: 1200px;
+    margin: 0 auto;
+}
+.header{
+    height: 84px;
+    border-bottom: 2px solid #c81623;
+    
+    
+    
+}
+.header img{
+    margin-top: 18px;
+    
+}
+.register{
+
+ margin-top: 20px;
+ height: 522px;
+ background-color: #fff;
+ border: 1px solid #ccc;
+}
+.reg_hd{
+    position: relative;
+    height: 42px;
+    border-bottom: 1px solid #ccc;
+    background-color: #ececec;
+}
+.reg_hd h3{
+    font-size: 18px;
+    line-height: 42px;
+    font-weight: 400;
+    margin-left: 10px;
+}
+.reg_hd h4{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 14px;
+    font-weight: 400;
+}
+.style_red{
+    color: #c81623;
+}
+
+.footer {
+    
+    background-color: #fff;
+    padding-top: 10px;
+}
+
+.mod_copyright {
+    text-align: center;
+    padding-top: 20px;
+}
+.links {
+    margin-bottom: 15px;
+}
+.links a {
+    margin: 0 3px;
+}
+.links p{
+    display: inline;
+}
+.copyright {
+    line-height: 20px;
+}
+.reg_bd{
+    position: relative;
+}
+.reg_bd ul{
+    
+    width: 600px;
+    height: 368px;
+
+    margin: 50px auto;
+    
+}
+.reg_bd ul li{
+    margin: 10px 100px;
+}
+.reg_bd ul li:nth-of-type(5){
+    padding-left: 40px;
+}
+.reg_bd ul li .check{
+    width: 15px;
+    height: 15px;
+    
+    
+}
+.reg_bd ul li .lab{
+    font-size: 12px;
+    padding-left: 5px;
+}
+.reg_bd ul li .sub{
+    background-color:#c81623 ;
+    color: #fff;
+}
+.reg_bd ul label{
+    font-size: 14px;
+}
+.reg_bd ul li input{
+
+    width: 249px;
+    height: 37px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    border: 1px solid gray;
+   
+}
